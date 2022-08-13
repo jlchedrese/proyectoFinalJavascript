@@ -1,0 +1,29 @@
+[{
+    "nombre": "Niceto",
+    "texto": "Attitude en Niceto",
+    "precio": 1200,
+    "id": 1,
+    "img": "../media/niceto.jpg"
+},
+{
+    "nombre": "Opera",
+    "texto": "Attitude en Teatro Opera",
+    "precio": 1500,
+    "id": 2,
+    "img": "../media/opera.jpg"
+},
+{
+    "nombre": "Pirkas - Neuquen",
+    "texto": "Attitude en Pirkas",
+    "precio": 2500,
+    "id": 3,
+    "img": "../media/neuquen.jpg"
+},
+{
+    "nombre": "Comodoro Rivadavia",
+    "texto": "Attitude en Comodoro",
+    "precio": 1000,
+    "id": 4,
+    "img": "../media/comodoro.jpg"
+}
+]
