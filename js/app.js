@@ -21,7 +21,7 @@ const pedirEntradas = async () => {
                 <img src="${entrada.img}" class="card-img-top" alt="..." />
                 <div class="card-body">
                 <h5 class="card-title">${entrada.nombre}</h5>
-                <p class="card-text">Attitude en Niceto Club</p>
+                <p class="card-text">${entrada.texto}</p>
                 <h6 class="precio" type="number">$<span type="number">${entrada.precio}</span></h6>
                 </div>
                 <a href="#" class="btn btn-primary agregar-carrito" id="${entrada.id}">Añadir al carrito</a>
